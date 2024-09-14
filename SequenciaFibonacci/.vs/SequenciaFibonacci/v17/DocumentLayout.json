@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hellen\\Desktop\\6 Git e Github\\C#\\Processo-seletivo\\SequenciaFibonacci\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3461AF3-D9A5-4E27-BD42-F44D91A73CEA}|SequenciaFibonacci\\SequenciaFibonacci.csproj|c:\\users\\hellen\\desktop\\6 git e github\\c#\\processo-seletivo\\sequenciafibonacci\\sequenciafibonacci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3461AF3-D9A5-4E27-BD42-F44D91A73CEA}|SequenciaFibonacci\\SequenciaFibonacci.csproj|solutionrelative:sequenciafibonacci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hellen\\Desktop\\6 Git e Github\\C#\\Processo-seletivo\\SequenciaFibonacci\\SequenciaFibonacci\\Program.cs",
+              "RelativeDocumentMoniker": "SequenciaFibonacci\\Program.cs",
+              "ToolTip": "C:\\Users\\Hellen\\Desktop\\6 Git e Github\\C#\\Processo-seletivo\\SequenciaFibonacci\\SequenciaFibonacci\\Program.cs",
+              "RelativeToolTip": "SequenciaFibonacci\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T21:53:42.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
